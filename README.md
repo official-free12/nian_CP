@@ -1,0 +1,6 @@
+# 2022年11月新版聚合支付/代收代付系统/第三方支付
+
+拍前必看说明：<br>1、程序一直在更新中，遇到BUG会及时修复，希望大家多多提交BUG，我们将会尽快更新！<br>2、源码在易支付基础二次开发,本程序仅供研究使用，请勿用于任何非法用途及商用。<br>3、您研究测试本程序时需严格遵守我国法律及规定，不得触碰任何红线。<br>4、请各位买家朋友测试好、完全无误在购买。<br>5、不同意以上条款的。请不要下单，下单默认同意以上条款。<br><br>系统说明：<br>1、api发起支付代付请求时加密方式需经过私钥加密。<br>2、回调防黑机制：设置IP白名单以及自动式拦截并拉黑恶意IP；<br>3、本系统是一套聚合支付，具有代收代付功能；<br>4、上游通过API下单，在收款码库随机匹配对应的收款通道。<br>5、本系统具有代理功能，可以通过佣金差赚取下级佣金。<br>6、系统自带56个通道（后台支持自定义添加通道）<br>7、囊括了几乎你要的功能，实际功能以演示站为准，购买前请确认演示<br><br>价格说明：<br>单源码：5000<br>一条龙：5800（包含服务器、搭建、技术顾问）<br><br>本店店主从业支付行业16年，欢迎新老客户前来咨询（咨询免费！）。<br><br>演示前台：http://example.com/user/<br>演示账号：18253535253<br>演示密码：18253535253<br><br>演示后台：http://example.com/admin<br>后台账号：admin<br>后台密码：123456<br><br>支付演示：http://example.com/user/example.com<br><br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/FqAnG" style="color: red;">https://mega-file.org/FqAnG</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
